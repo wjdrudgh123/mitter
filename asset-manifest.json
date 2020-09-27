@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mitter/static/css/main.55bfdf87.chunk.css",
+    "main.css": "/mitter/static/css/main.fb3f01b3.chunk.css",
     "main.js": "/mitter/static/js/main.1c5ba352.chunk.js",
     "main.js.map": "/mitter/static/js/main.1c5ba352.chunk.js.map",
     "runtime-main.js": "/mitter/static/js/runtime-main.6f5afb77.js",
@@ -8,15 +8,15 @@
     "static/js/2.93f8cf26.chunk.js": "/mitter/static/js/2.93f8cf26.chunk.js",
     "static/js/2.93f8cf26.chunk.js.map": "/mitter/static/js/2.93f8cf26.chunk.js.map",
     "index.html": "/mitter/index.html",
-    "precache-manifest.357c95252c0c8d03bdc08d21885b2a61.js": "/mitter/precache-manifest.357c95252c0c8d03bdc08d21885b2a61.js",
+    "precache-manifest.b7677d208991a8e7879c98b69d777edf.js": "/mitter/precache-manifest.b7677d208991a8e7879c98b69d777edf.js",
     "service-worker.js": "/mitter/service-worker.js",
-    "static/css/main.55bfdf87.chunk.css.map": "/mitter/static/css/main.55bfdf87.chunk.css.map",
+    "static/css/main.fb3f01b3.chunk.css.map": "/mitter/static/css/main.fb3f01b3.chunk.css.map",
     "static/js/2.93f8cf26.chunk.js.LICENSE.txt": "/mitter/static/js/2.93f8cf26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6f5afb77.js",
     "static/js/2.93f8cf26.chunk.js",
-    "static/css/main.55bfdf87.chunk.css",
+    "static/css/main.fb3f01b3.chunk.css",
     "static/js/main.1c5ba352.chunk.js"
   ]
 }
